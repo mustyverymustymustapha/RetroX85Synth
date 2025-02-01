@@ -1,3 +1,4 @@
+![IMG_0274](https://github.com/user-attachments/assets/6ea87b6a-74db-48c4-bdbc-79720a4c408e)
 # RETRO X85 SYNTHWAVE CONSOLE
 
 Welcome to **RETRO X85 SYNTHWAVE CONSOLE**, an interactive, cyberpunk-inspired synth experience straight out of a neon-drenched dystopian future. This project features a fully responsive, glitch-powered synthesizer interface with interactive controls, flickering scanlines, and dynamic sound manipulation.
